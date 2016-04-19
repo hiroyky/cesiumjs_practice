@@ -1,0 +1,12 @@
+{
+    "appnders": [
+        {
+            "type": "file",
+            "category": "default",
+            "filename": "logs/default.log"            
+        },
+        { "type": "console" }
+    ],
+    "levels": { "system": "INFO" },
+    "replaceConsole": true
+}
